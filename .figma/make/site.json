@@ -1,0 +1,10 @@
+{
+  "description": "A welcoming home-focused experience that helps users explore home-related services and find support for their needs.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
